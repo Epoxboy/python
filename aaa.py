@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/bin/python
 
 # this is a demo
 
