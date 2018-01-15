@@ -5,6 +5,7 @@ phases:
     commands:
       - echo Entered the install phase...
       - sudo python -m pip install boto3
+      - sudo pip install --upgrade pip
   build:
     commands:
       - echo Build started on `date`
